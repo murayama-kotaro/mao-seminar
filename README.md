@@ -6,7 +6,7 @@ https://elmas3.github.io/mao-seminar/
 # メンバー
 - 真央教授
 - エルマス
-- 若葉
+- わかばちゃん
 
 # ディレクトリ構成
 ```
